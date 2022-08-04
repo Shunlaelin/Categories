@@ -1,0 +1,103 @@
+body{
+	position: relative;
+	font-family: 'Lato', sans-serif;
+}
+.div1{
+	width: 100%;
+	height: 400px;
+	background: #1C1818;
+	/*position: relative;*/
+}
+.div2{
+	width: 100%;
+	height: 200px;
+	background: white;
+}
+.img1{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 50px;
+}
+.img2{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 100px;
+	left: 450px;
+}
+.img3{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 850px;
+}
+.div6{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 50px;
+	background: rgba(0, 0, 0, 0.5);
+}
+.div7{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 100px;
+	left: 450px;
+	background: rgba(0, 0, 0, 0.5);
+}
+.div8{
+	width: 25%;
+	height: 400px;
+	display: inline-block;
+	position: absolute;
+	top: 100px;
+	margin: 20px;
+	left: 850px;
+	background: rgba(0, 0, 0, 0.5);
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	top: 150px;
+	left: 90px;
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	text-decoration: underline;
+}
+h1{
+	color: beige;
+	text-align: center;
+	opacity: 0.5;
+}
+.button{
+	text-decoration: none;
+	color: #1C1818;
+	border: 3px solid #1C1818;
+	border-radius: 5px;
+	position: absolute;
+	bottom: 15px;
+	left: 0;
+}
